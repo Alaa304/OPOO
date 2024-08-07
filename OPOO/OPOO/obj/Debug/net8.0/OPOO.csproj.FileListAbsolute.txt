@@ -1,0 +1,14 @@
+E:\C#\alaa\OPOO\OPOO\obj\Debug\net8.0\OPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\alaa\OPOO\OPOO\obj\Debug\net8.0\OPOO.AssemblyInfoInputs.cache
+E:\C#\alaa\OPOO\OPOO\obj\Debug\net8.0\OPOO.AssemblyInfo.cs
+E:\C#\alaa\OPOO\OPOO\obj\Debug\net8.0\OPOO.csproj.CoreCompileInputs.cache
+E:\C#\alaa\OPOO\OPOO\bin\Debug\net8.0\OPOO.exe
+E:\C#\alaa\OPOO\OPOO\bin\Debug\net8.0\OPOO.deps.json
+E:\C#\alaa\OPOO\OPOO\bin\Debug\net8.0\OPOO.runtimeconfig.json
+E:\C#\alaa\OPOO\OPOO\bin\Debug\net8.0\OPOO.dll
+E:\C#\alaa\OPOO\OPOO\bin\Debug\net8.0\OPOO.pdb
+E:\C#\alaa\OPOO\OPOO\obj\Debug\net8.0\OPOO.dll
+E:\C#\alaa\OPOO\OPOO\obj\Debug\net8.0\refint\OPOO.dll
+E:\C#\alaa\OPOO\OPOO\obj\Debug\net8.0\OPOO.pdb
+E:\C#\alaa\OPOO\OPOO\obj\Debug\net8.0\OPOO.genruntimeconfig.cache
+E:\C#\alaa\OPOO\OPOO\obj\Debug\net8.0\ref\OPOO.dll
